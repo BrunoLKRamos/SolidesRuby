@@ -1,0 +1,13 @@
+source 'http://rubygems.org'
+
+gem 'capybara'  
+gem 'webdrivers', '~> 4.0'
+gem 'cucumber'
+gem 'rspec'
+gem 'rubocop' # Analisador de código
+gem 'selenium-webdriver'
+gem 'site_prism'# Page Object Model para Capybara
+gem 'fastri'
+gem 'rcodetools'
+gem 'faker' # Para criação de dados fake
+gem 'cpf_faker' # Para criação de CPF fake
